@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Aerospace</key>
+	<array>
+		<string>Aviation</string>
+		<string>Aerodynamics</string>
+		<string>Aircraft Design</string>
+		<string> Aeronautics</string>
+		<string>Space Eng.</string>
+	</array>
+	<key>Civil</key>
+	<array>
+		<string>Atmosphere Energy</string>
+		<string>Construction Eng.</string>
+		<string>Structural Eng.</string>
+		<string>Transportation Eng.</string>
+		<string>Geotechnical Eng.</string>
+	</array>
+	<key>Computer Science</key>
+	<array>
+		<string>Artificial Intelligence</string>
+		<string>Computer Architecture</string>
+		<string>Database mgmt.</string>
+		<string>Robotics</string>
+		<string>Network and Security</string>
+	</array>
+	<key>Electronics/Electrical</key>
+	<array>
+		<string>Digital comm.</string>
+		<string>Wireless Comm.</string>
+		<string> VLSI Systems</string>
+		<string>Analog Circuits</string>
+		<string>Optical Fiber Comm.</string>
+	</array>
+	<key>MIS</key>
+	<array>
+		<string>Data Science</string>
+		<string>Informatics</string>
+		<string>Information Security</string>
+		<string>Business Intelligence</string>
+		<string>Enterprise Mgmt.</string>
+	</array>
+	<key>Mechanical</key>
+	<array>
+		<string>Biomechanical Eng.</string>
+		<string>Material Science</string>
+		<string>Thermal Sciences</string>
+		<string>Automobile Eng.</string>
+		<string>Mechatronics</string>
+	</array>
+</dict>
+</plist>

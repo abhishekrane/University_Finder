@@ -1,0 +1,318 @@
+{
+"University": {
+
+"University 280-300": [
+{
+"id":1,
+"Name": "California State University- Long Beach",
+"imageURL":"https://c1.staticflickr.com/4/3594/3394905479_310327639e_b.jpg",
+"Description": "A Good university which is nearer to one of the most amazing city Los Angeles. Cs people California is boon for you. So with decent score do not miss to apply in this college.",
+"Tuition Fess" : "Around 15,000$",
+"Part-time Jobs" : "Okay",
+"Jobs" : "Good"
+
+},
+{
+"id":2,
+"Name": "University Of Houston- Clear Lake",
+"imageURL":"https://blog.uhcl.edu/news/images/rec-wellness-building.jpg",
+"Description": "TUHCL is a decent college for CS and EE background. It is in Texas and and living expenses are also affordable.You can surely consider an admit from this UHCL if you have 295+ in GRE.",
+"Tuition Fess" : "Around 18,000$",
+"Part-time Jobs" : "Available",
+"Jobs" : "Moderate"
+},
+{
+"id":3,
+"Name": "University at Albany, SUNY",
+"imageURL":"https://www.suny.edu/media/suny/content-assets/images/campus-profiles/pics/Albany-fountain-w-students.jpg",
+"Description": "SUNY albany is great college in Albany, New York. With low tuition fees it provides good education.It is in New York so jobs are available easily. With GRE score 295+ you should give it a try.",
+"Tuition Fess" : "Around 18,000$",
+"Part-time Jobs" : "Available",
+"Jobs" : "Good"
+},
+{
+"id":4,
+"Name": " University of Illinois- Springfield ",
+"imageURL":"https://media.nbcchicago.com/images/652*367/university+of+illinois+springfield+strike+52.png",
+"Description": "The University of Illinois at Springfield (UIS) is a public university in Springfield, Illinois. The University of Illinois—Springfield is located in the state capital, about 90 miles northeast of St. Louis. It’s a good university with profile mentioned above.",
+"Tuition Fess" : "Around 21,000$",
+"Part-time Jobs" : "Moderate",
+"Jobs" : "Moderate"
+},
+{
+"id":5,
+"Name": "New York Institute Of Technology ",
+"imageURL":"https://www.universities-colleges-schools.com/sites/default/files/nyit.jpg",
+"Description": "Almost all the applicant who have GRE score 290-295 apply to this college and with decent UG they can crack admit from this college. With GRE score between 290-300 you can surely consider admit from this college. NYIT consistently ranks in the “top 50” among U.S. universities in the north, as compiled by U.S. News & World Report.",
+"Tuition Fess" : "Around 16,000$",
+"Part-time Jobs" : "available",
+"Jobs" : "Good"
+},
+{
+"id":6,
+"Name": "Indiana University – Purdue University ",
+"imageURL":"https://shrs.iupui.edu/img/photos/content/header-2-deans-welcome.jpg",
+"Description": "Indiana University – Purdue University Indianapolis (IUPUI) is the premier urban campus of Indiana University and Purdue University in Indianapolis, Indiana, United States.With research expenditures of nearly $275 million in 2013, IUPUI is the second-largest site for research in Indiana. In 2013, IUPUI: Ranked 5th for “Up and Coming School” by U.S. News & World Report.",
+"Tuition Fess" : "Around 22,000$",
+"Part-time Jobs" : "Moderate",
+"Jobs" : "Moderate"
+
+},
+{
+"id":7,
+"Name": "Fairleigh Dickinson University",
+"imageURL":"https://news.njit.edu/sites/news/files/styles/16x9__640x360_/public/maxresdefault.jpg?itok=XdPrefRs",
+"Description": "Fairleigh Dickinson University is a private, coeducational and nonsectarian university founded in 1942. Fairleigh Dickinson University is the first American university to own and operate an international campus and currently offers more than 100 individual degree programs to its students.It is a decent university for GRE score 290-295. It requires minimum 6 Bands in IELTS and 79 in TOEFL It also offers Scholarship to many students.",
+"Tuition Fess" : "Around 22,000$",
+"Part-time Jobs" : "Moderate",
+"Jobs" : "Moderate"
+},
+{
+"id":8,
+"Name": "New Jersey Institute of Technology",
+"imageURL":"https://news.njit.edu/sites/news/files/styles/16x9__640x360_/public/School%20of%20Management_0.jpg",
+"Description": "This place is very good for Asian students, because you can see so many Indian and Asian students in NJIT.It offers very good engineering courses. Fess are low but Living expense is high. Campus is about half hour ride from New York City.",
+"Tuition Fess" : "Around 25,000$",
+"Part-time Jobs" : "Available",
+"Jobs" : "Good"
+},
+{
+"id":9,
+"Name": " California State University – Eastbay ",
+"imageURL":"https://www.bestvalueschools.com/wp-content/uploads/2016/04/California-State-University-East-Bay-Best-Construction-Management-Degrees.jpg",
+"Description": "California State University Eastbay is a decent college with decent fees. People from Computer Science background should go for this college if you have scored more than 290.",
+"Tuition Fess" : "Around 15,000$",
+"Part-time Jobs" : "Moderate",
+"Jobs" : "Moderate"
+},
+{
+"id":10,
+"Name": "University of Colorado, Denver",
+"imageURL":"https://www.cu.edu/sites/default/files/dept_feature_denver.png",
+"Description": "The University of Colorado Denver is a public research university in the U.S. state of Colorado. It is part of the University of Colorado system. It is located around 15 miles from Boulder city. The University of Colorado Denver is the largest research institution in Colorado, attracting more than $375 million in research grants annually,and granting more graduate degrees than any other institution in the state",
+"Tuition Fess" : "Around 23,000$",
+"Part-time Jobs" : "Competitive",
+"Jobs" : "Moderate"
+}
+],
+
+
+"University 300-320": [
+{
+"id":1,
+"Name": "San Jose State University",
+"imageURL":"https://cmpe.sjsu.edu/files/public/tower-hall.jpg",
+"Description": "To all the CS people I will strongly recommend this to you. Because it is in California. CS people will have very good Job from this university.If you are from CS and your GRE score is around 300 then you will surely get an admit from this university. Main problem is you won’t get admit in CS department but one can get admit from Software Engineering.",
+"Tuition Fess" : "Around 15,000$",
+"Part-time Jobs" : "Available",
+"Jobs" : "Very Good"
+
+},
+{
+"id":2,
+"Name": "Illinois Institute of Technology – Chicago",
+"imageURL":"https://admissions.iit.edu/sites/admissions/files/elements/admissions/apply-campusphoto.jpg",
+"Description": "This is one of the best college for Electrical and Computer background. With normal GRE score and profile one can get admit from this college. Job is not a problem here because it is in Chicago. If you have score around 300-310 you can certainly pin it down in your list  Fun Fact : Chicago’s Metro Rail passes right through the campus.",
+"Tuition Fess" : "Around 22,000$",
+"Part-time Jobs" : "Available",
+"Jobs" : "Very Good"
+},
+{
+"id":3,
+"Name": "Arizona State University",
+"imageURL":"https://campus.asu.edu/sites/default/files/styles/asu_spotlight_image/public/general/downtown1.jpg?itok=8MpCb0_p",
+"Description": "Arizona State University commonly referred as ASU. It  is classified as a research university with very high research activity. Since 2005 ASU has been ranked among the top research universities, public and private. The 2015 U.S. News & World Report ranking of U.S. colleges and universities ranked ASU’s undergraduate program 63rd among public universities and 129th of 280 “national universities.” There are lot of Job opportunities there.",
+"Tuition Fess" : "Around 30,000$",
+"Part-time Jobs" : "Available",
+"Jobs" : " Very Good"
+},
+{
+"id":4,
+"Name": "San Diego State University",
+"imageURL":"https://business.sdsu.edu/_resources/images/benefits-image.jpg",
+"Description": "San Diego state university is one of the fine college in California. With GRE score around 300 and good academic one can surely get admit from this university. Even if it is in California Jobs are not as good as San Jose, but if you are CS student do not worry about Job in California.",
+"Tuition Fess" : "Around 16,000$",
+"Part-time Jobs" : "moderate",
+"Jobs" : "Good"
+},
+{
+"id":5,
+"Name": " State University of New York – Buffalo",
+"imageURL":"https://www.suny.edu/media/suny/content-assets/images/campus-profiles/pics/Buffalo-campus-banner.jpg",
+"Description": "The State University of New York at Buffalo is a public research university with multiple campuses located in Buffalo and Amherst in United States. It is commonly referred to as the SUNY Buffalo. The University at Buffalo is the state’s largest and most comprehensive public university and is spread across three campuses: North Campus, South Campus, and Downtown Campus. SUNY Buffalo is an ideal place for international students because it has a decent location and low tuition fees.",
+"Tuition Fess" : "Around 18,200$",
+"Part-time Jobs" : "Available ",
+"Jobs" : "Very Good"
+},
+{
+"id":6,
+"Name": "Northeastern University (Boston, Massachusetts)",
+"imageURL":"https://thumbs.dreamstime.com/b/view-fourth-autonomous-university-sutd-campus-singapore-panorama-technology-design-70539929.jpg",
+"Description": "Northeastern University is a good place to pursue engineering. Northeastern University has wonderful campus. Even if in winters is becomes quite cold, boston is a fantastic city to live in. There is no doubt about jobs.",
+"Tuition Fess" : "Around 23,000$",
+"Part-time Jobs" : "Available",
+"Jobs" : "Good"
+},
+{
+"id":7,
+"Name": "University of Texas-Dallas",
+"imageURL":"https://cdn-images-1.medium.com/max/735/1*6EngcDsq2YaLfTN33Sp-rg.png",
+"Description": "The University of Texas at Dallas is commonly known as UTD,  is a public research university.The U.S. News and World Report 2015 rankings of graduate school programs ranked the UT Dallas’ Erik Jonsson School of Engineering and Computer Science at 71st among graduate engineering programs. UTD is one of the finest college to pursue engineering courses. ",
+"Tuition Fess" : "Around 22,000$",
+"Part-time Jobs" : "Available",
+"Jobs" : "Good"
+},
+{
+"id":8,
+"Name": "Rochester Institute of Technology",
+"imageURL":"https://www.masterstudies.com/image_processor/images/cover-photo/217/large/cover.jpg",
+"Description": "RIT is a great place to be at, if you are looking to pursue engineering. It has huge, beautiful campus.Rochester is pretty close to Niagara Falls, and NYC is the only huge city close by. Because it is near to New York city Jobs are very good.",
+"Tuition Fess" : "Around 35,000$",
+"Part-time Jobs" : "Available",
+"Jobs" : "Good"
+},
+{
+"id":9,
+"Name": "University of Colorado- Boulder",
+"imageURL":"https://pagethink.com/media/uploads/news-images/lg_utd1.jpg",
+"Description": "University of Colorado Boulder is considered one of the thirty “Public Ivy League” schools. U.S. News & World Report ranked the University of Colorado Boulder tied for 88th best among all national universities and tied for 38th among public universities in the U.S. in 2015.  Twenty-four CU-Boulder graduate school specialty programs are ranked in the top 50 in the nation, including seven in the top 10, by U.S. News & World Report in 2015. Colorado Boulder has world class telecom engineering program.",
+"Tuition Fess" : "Around 29,000$",
+"Part-time Jobs" : "Few",
+"Jobs" : "Good"
+},
+{
+"id":10,
+"Name": " Stevens Institute of Technology ",
+"imageURL":"https://www.sigsac.org/wisec/WiSec2010/image.jpg",
+"Description": "Stevens Institute of Technology is a very small campus and offers good courses in Engineering and Technology. It has very high tuition fees and living expense is also very high. New York city is very near from SIT.",
+"Tuition Fess" : "Around 30,200$",
+"Part-time Jobs" : "Available",
+"Jobs" : "Good"
+}
+
+],
+
+
+
+"University 320-340": [
+{
+"id":1,
+"Name": "Massachusetts Institute of Technology ",
+"imageURL":"https://media-cdn.tripadvisor.com/media/photo-s/0a/23/54/c2/massachusetts-institute.jpg",
+"Description": "Arguably the best college in the world for engineering and technology.Home to the best Electronics and Mechanical Engineering departments in the world. World class professors, great student community, and proximity to Boston and New York are MIT’s advantages.",
+"Tuition Fess" : "Around 43,000$",
+"Part-time Jobs" : "Available",
+"Jobs" : "Awesome"
+
+},
+{
+"id":2,
+"Name": "Stanford University ",
+"imageURL":"https://visit.stanford.edu/assets/cardinal/images/tours/freedom/freedom_canvas2.jpg",
+"Description": "A top of the line university with the world’s best departments of Computer Science Engineering and Business. A great brand name, Nobel Prize holding professors, top notch facilities, a magnificent, palm tree laden campus, and an all year sunny weather are the highlights of Stanford. And Stanford’s location right at the heart of the Silicon Valley and in the San Francisco Bay Area.",
+"Tuition Fess" : "Around 45,000$",
+"Part-time Jobs" : "Available",
+"Jobs" : "Awesome"
+},
+{
+"id":3,
+"Name": "California Institute of Technology ",
+"imageURL":"https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/california-institute-of-technology-caltech-beckman-institute-ram-vasudev.jpg",
+"Description": "One of the world’s best private universities known for its extensive research facilities, Caltech is a home to the geekiest people on earth (Think Sheldon Cooper). State of the art modern campus with world class professors makes it a dream college for thousands of students. One of the toughest places to get into, Caltech has a long standing rivalry with its eastern counterpart, MIT.",
+"Tuition Fess" : "Around 40,000$",
+"Part-time Jobs" : "Available",
+"Jobs" : "Awesome"
+},
+{
+"id":4,
+"Name": "Harvard University ",
+"imageURL":"https://www.omnihotels.com/-/media/images/globals/cityshots/boston-harvard-university-000058925298.jpg?h=660&la=en&w=1170",
+"Description": "Harvard is hands down the most prestigious college on earth. Getting in is as difficult as surviving the competition after admission, given that the best of the best apply to Harvard. One of the oldest, largest, and the most famous universities ever, Harvard is known for its top ranked schools of Business, Education, Law, and Government, though engineering isn’t quite up there yet.",
+"Tuition Fess" : "Around 38,000$",
+"Part-time Jobs" : "Available",
+"Jobs" : "Awesome"
+},
+{
+"id":5,
+"Name": "University of California – Berkeley ",
+"imageURL":"https://sustainability.berkeley.edu/sites/default/files/styles/panopoly_image_spotlight/public/general/mlksolarconstruct_2015.jpg?itok=XIIiP1F6",
+"Description": "A huge, beautiful campus in the Bay area, UC – Berkeley is probably the world’s best public research university. Known for its rigorous and competitive Engineering, Business, and Doctoral departments, Berkeley is a top choice among most students across the world.Understandably, most of Berkeley’s graduates end up working with startups or tech companies in the Silicon Valley.",
+"Tuition Fess" : "Around 26,000$",
+"Part-time Jobs" : "Moderate",
+"Jobs" : "Awesome"
+},
+{
+"id":6,
+"Name": "Carnegie Mellon University ",
+"imageURL":"https://cdn.thinglink.me/api/image/763833439869730816/1240/10/scaletowidth",
+"Description": "A small but beautiful campus on the outskirts of Pittsburg, Carnegie Mellon University or CMU is one of the most favored universities among engineers, thanks to its stellar research facilities in science and technology. Boasting a close knitted community of students, CMU’s culture is as wonderful as its academic facilities. Though a small city, Pittsburg offers great choices for entertainment, sports, and food.",
+"Tuition Fess" : "Around 40,000$",
+"Part-time Jobs" : "Available",
+"Jobs" : "Awesome"
+},
+{
+"id":7,
+"Name": "Princeton University ",
+"imageURL":"https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2017/09/11/104702805-Blair_Hall.600x400.jpg?v=1505154619",
+"Description": "Perhaps the best of all Ivy League institutions, Princeton is known for producing world leaders and inventors. A favorable choice among the Asian and Indian students, Princeton is one of the most selective universities under the sun.  Princeton’s location is a big plus to its students, considering that it’s only an hour away from New York City, where most students end up living and working, after graduation.",
+"Tuition Fess" : "Around 40,000$",
+"Part-time Jobs" : "Less Available",
+"Jobs" : "Awesome"
+
+},
+{
+"id":8,
+"Name": "University of Texas at Austin ",
+"imageURL":"https://www.admitsee.com/bloguploads/_framed/45-328110-cover-53ef56729cf289f495f1fa87bba3d332-AcademicBuilding-TAMU.jpg",
+"Description": "UT Austin is one of the most prestigious public universities in the US, and in the world. With excellent modern infrastructure and facilities, it is a very favored institution among applicants.One of the most welcoming and lively cities in the US, Austin is also a growing hub of startups, and is being dubbed as the next best place for high tech and innovation, after Silicon Valley.",
+"Tuition Fess" : "Around 17,000$",
+"Part-time Jobs" : "Available",
+"Jobs" : "Awesome"
+},
+{
+"id":9,
+"Name": "Texas A & M University – College Station ",
+"imageURL":"https://i.ytimg.com/vi/v2DArP4ff1w/maxresdefault.jpg",
+"Description": "Ranked number 2 in Best Public Universities in the US, Texas A&M, or TAMU is one of the hottest graduate schools in the states.A very typical college town, College Station has no other attractions than TAMU. Students usually frequent to Austin, Dallas, and Houston, for both entertainment and employment opportunities.",
+"Tuition Fess" : "Around 10,000$",
+"Part-time Jobs" : "Available",
+"Jobs" : "Awesome"
+},
+{
+"id":10,
+"Name": "University of Illinois – Urbana Champaign ",
+"imageURL":"https://upload.wikimedia.org/wikipedia/commons/d/dd/Uniwersyte_Illinois_kampus.JPG",
+"Description": "A large, beautiful, campus 3 hours from Chicago, UIUC is a very prestigious public university that is always on the list of many students.Its close proximity to Chicago, the best city in the US after New York, gives its students an unfair advantage when it comes to jobs and internships, as well as entertainment. If there’s one thing to worry about, it’s the weather: very unpredictable and cold.",
+"Tuition Fess" : "Around 28,000$",
+"Part-time Jobs" : "competitive",
+"Jobs" : "Awesome"
+}
+]
+
+}
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
